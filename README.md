@@ -30,7 +30,7 @@ UI Components Library
 
 🛠️ Setup Instructions
   1. Clone the repo
-  git clone https://github.com/<your-username>/<repo-name>.git
+  git clone https://github.com/bhoomikahs5/frontend-story.git
   cd <repo-name>
   
   2. Install dependencies
