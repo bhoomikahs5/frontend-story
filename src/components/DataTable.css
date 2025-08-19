@@ -1,0 +1,43 @@
+table {
+  width: 100%;
+  border: 1px solid #e5e7eb; /* gray-200 */
+  border-radius: 6px;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+thead tr {
+  background-color: #f9fafb; /* gray-100 */
+}
+
+th {
+  padding: 8px;
+  text-align: left;
+  cursor: pointer;
+  user-select: none;
+}
+
+th:hover {
+  background-color: #f3f4f6; /* hover effect */
+}
+
+td {
+  padding: 8px;
+  border-top: 1px solid #e5e7eb; /* gray-200 */
+}
+
+tr:hover {
+  background-color: #f9fafb; /* light hover */
+}
+
+input[type="checkbox"] {
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+
+.p-4 {
+  padding: 16px;
+  text-align: center;
+}
